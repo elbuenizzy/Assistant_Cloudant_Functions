@@ -1,0 +1,10 @@
+{
+ 	"_id": "_design/groupType",
+	"views": {
+		"type-group": {
+			"reduce": "_count",
+			"map": "function(doc) {\n if (doc && doc.table) {\n   emit(doc.table, 1);\n }\n}"
+		}
+	},
+	"language": "javascript"
+}

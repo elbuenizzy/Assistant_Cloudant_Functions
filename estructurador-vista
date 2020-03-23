@@ -1,0 +1,7 @@
+function main(params) {
+	return {"dbname": "{nombreDB}",
+    "docid" : "groupType",
+    "viewname" : "type-group",
+    "params" : {"key": params.key,"include_docs": true,"reduce":false}
+};
+}

@@ -1,0 +1,27 @@
+{  
+  "proveedor": "Visita a las Grutas de Tolantongo, Hidalgo",
+  "PrecioAdulto": 2000,
+  "PrecioMenor": 1000,
+  "Nota": ""
+}
+
+{  
+  "proveedor": "Caminata nocturna en Real del Monte",
+  "PrecioAdulto": 150,
+  "PrecioMenor": 75,
+  "Nota": ""
+}
+
+{  
+  "proveedor": "Museo de los Duendes, Pachuca ",
+  "PrecioAdulto": 500,
+  "PrecioMenor": 250,
+  "Nota": ""
+}
+
+{  
+  "proveedor": "Tour del Tequila, Jalisco ",
+  "PrecioAdulto": 4000,
+  "PrecioMenor": 2000,
+  "Nota": ""
+}

@@ -1,0 +1,20 @@
+
+Recuerda que para manejar operaciones y lógicamente dentro de assistant usamos:
+<? ?>
+
+Headers:
+
+model_id: es-en
+Content-Type : application/json
+
+Authorization:
+
+apikey
+
+Para manejar el texto escrito:
+
+input.text
+
+/v3/identify?version=2018-05-01
+
+$webhook_result_1.translations[0].translation
